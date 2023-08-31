@@ -51,7 +51,10 @@ We can use these together to get a normalized (0--1) coordinate for our fragemen
 fn fs( @builtin(position) pos : vec4f ) -> @location(0) vec4f {
   // create normalized position coordinates in range 0-1
   let p = pos.xy / res;
-  let color  = bias + sin( p.x * frequency + (frame/60.) );
+  let frequency = 30.;
+  let bias = .5;
+  let gain = .5;
+  let color  = bias + sin( p.x * frequency + (frame/60.) ) * gain;
   return vec4f( color,0.,0., 1. );
 }
 ```
