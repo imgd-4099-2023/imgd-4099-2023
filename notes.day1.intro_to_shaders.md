@@ -118,5 +118,3 @@ fn fs( @builtin(position) pos : vec4f ) -> @location(0) vec4f {
 In wgsl_live, we can get access to the data from our laptop microphones by clicking on the audio button at the bottom of the screen. Once you’ve granted your browser access to use the microphone, the FFT data will then be available in a `vec3f` uniform named `audio`, where `audio[0]` is the low-frequency content and `audio[2]` is the high frequency content. 
 Try setting the value of `gain` in the above script to use one of these bands and have fun watching the results… and then try messing around with the formula in other ways, 
 dividing instead of of multiplying, use fewer or more iterations of the for loop etc.
-
-*IMPORTANT: The audio input function does not appear to be working in Firefox under Linux. Try running the Force in a different browser if you have trouble getting `bands` to work correctly.*
