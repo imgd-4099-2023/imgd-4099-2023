@@ -33,10 +33,10 @@ A best guess is provided for how much time should be spent on each assignment. S
     - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Noise](https://thebookofshaders.com/11/). Due 9/6 (4 hours).
     - Complete the Shader Live Coding Assignment, also due 9/6 (6 hours).  
 
-### Week 2 9/6: Tech - Intro to WebGPU and Compute Shaders
+### Week 2 9/6: Tech - Intro to WebGPU and Video synthesis history
 Assignments:  
-  - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Fractal Brownian Motion](https://thebookofshaders.com/13/). Due 9/13 (4 hours).
-  - Complete the WebGPU Intro Assignment. due on 9/13 (6 hours).  
+  - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Fractal Brownian Motion](https://thebookofshaders.com/13/). Due 9/13 (2 hours).
+  - Complete the [WebGPU Intro / Video Processing Assignment](A2.video_processing.md). due on 9/13 (8 hours).  
   
 ### Week 3 9/13: Video Synthesis and Texture usage
 - Video synthesis / feedback history
