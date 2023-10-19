@@ -2,6 +2,7 @@
 Please add your name / URL to the list below!
 
 - [Charlie Roberts](http://charlie-roberts.com)
+- [Nicholas Frangie](https://github.com/NickFrangie/imgd4099)
 - [Arthur Ames](https://github.com/ArthurAmes/computer-graphics-4099)
 - [Cooper Dean](https://github.com/Dooober/imgd-4099)
 - [Alex Marrinan](https://alexmarrinan.github.io/4099/index.html)
