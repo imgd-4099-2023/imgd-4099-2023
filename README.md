@@ -33,27 +33,22 @@ A best guess is provided for how much time should be spent on each assignment. S
     - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Noise](https://thebookofshaders.com/11/). Due 9/6 (4 hours).
     - Complete the Shader Live Coding Assignment, also due 9/6 (6 hours).  
 
-### Week 2 9/6: Tech - Intro to WebGPU and Compute Shaders
+### Week 2 9/6: Tech - Intro to WebGPU and Video synthesis history
 Assignments:  
-  - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Fractal Brownian Motion](https://thebookofshaders.com/13/). Due 9/13 (4 hours).
-  - Complete the WebGPU Intro Assignment. due on 9/13 (6 hours).  
+  - Read / experiment with [The Book of Shaders](http://thebookofshaders.com) up through the lesson on [Fractal Brownian Motion](https://thebookofshaders.com/13/). Due 9/13 (2 hours).
+  - Complete the [WebGPU Intro / Video Processing Assignment](A2.video_processing.md). due on 9/13 (8 hours).  
   
-### Week 3 9/13: Video Synthesis and Texture usage
-- Video synthesis / feedback history
-- Using and accessing textures (canvas, video, images etc.)
-- Framebuffers, render to texture, and video feedback 
-    - Complete the video feedback mini-assignment found in the notes for the day. Due 9/20.
- 
-### Week 4 9/20: Automata and Morphogenesis
-- Automata  
-- Complete the Reaction Diffusion assignment, due on 9/27 (8 hours).
-- Begin thinking about final project idea (4 hours)
-- 
+### Week 3 9/13: Automata and Morphogenesis
+- Cellular Automata  
+- Complete the [Reaction Diffusion assignment](./A3.reaction_diffusion.md), due on 9/20.
+
+### Week 4 9/20: Vertex Shaders and Particle Effects
+- Go through the [Your first WebGPU app tutorial](https://codelabs.developers.google.com/your-first-webgpu-app#0), which will teach you to create a WebGPU application from the ground up, with no additional libraries. Give yourself about 4-5 hours for this, it's a long tutorial! Due 9/27
+- Complete the [Particle effects assignment](./A4.particles.md)
+   
 ### Week 5 9/27: Agent-based Simulations
-- Langton's Ants   
-- Physarum  
-    - Complete the Physarum assignment, due on 10/4 (8 hours).
-- Finalize final project idea (4 hours)
+- [Langton's Ants Assignment](./A5.vants.md) (3--4 hours)
+- Begin working on final project (6 hours)
 
 ### Week 6 10/4: Interaction in the Digital Arts + Other ways to tame the GPU: CUDA / Game Engines
 - OSC / MIDI
