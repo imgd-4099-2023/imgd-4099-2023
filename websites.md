@@ -2,6 +2,7 @@
 Please add your name / URL to the list below!
 
 - [Charlie Roberts](http://charlie-roberts.com)
+- [Milo Jacobs](https://github.com/StinkyMilo/IMGD4099)
 - [Sam Randa](https://4099.samranda.com/)
 - [Nicholas Frangie](https://github.com/NickFrangie/imgd4099)
 - [Arthur Ames](https://github.com/ArthurAmes/computer-graphics-4099)
