@@ -41,12 +41,14 @@ Assignments:
 ### Week 3 9/13: Automata and Morphogenesis
 - Cellular Automata  
 - Complete the [Reaction Diffusion assignment](./A3.reaction_diffusion.md), due on 9/20.
+
+### Week 4 9/20: Vertex Shaders and Particle Effects
+- Go through the [Your first WebGPU app tutorial](https://codelabs.developers.google.com/your-first-webgpu-app#0), which will teach you to create a WebGPU application from the ground up, with no additional libraries. Give yourself about 4-5 hours for this, it's a long tutorial! Due 9/27
+- Complete the [Particle effects assignment](./A4.particles.md)
    
 ### Week 5 9/27: Agent-based Simulations
-- Langton's Ants   
-- Physarum  
-    - Complete the Physarum assignment, due on 10/4 (8 hours).
-- Finalize final project idea (4 hours)
+- [Langton's Ants Assignment](./A5.vants.md) (3--4 hours)
+- Begin working on final project (6 hours)
 
 ### Week 6 10/4: Interaction in the Digital Arts + Other ways to tame the GPU: CUDA / Game Engines
 - OSC / MIDI
