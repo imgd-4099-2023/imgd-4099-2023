@@ -11,3 +11,4 @@ Please add your name / URL to the list below!
 - [Mingliang Wang](https://github.com/BlakeQuin33/IMGD-4099-_MW)
 - [MingZhang Guo](https://github.com/A-PLAYER/4099_MingZhang-Guo.git)
 - [Kas](https://aimgd.github.io/imgd-4099/)
+- [Milo Jacobs](https://github.com/StinkyMilo/IMGD4099)
